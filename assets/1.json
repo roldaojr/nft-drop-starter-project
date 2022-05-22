@@ -1,0 +1,19 @@
+{
+  "name": "Queen of Swords",
+  "symbol": "Queen_Of_Swords",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FxDhbLH6hEosbyUc7Waiz2TXMSaUSKLYDH5BpghR4DL8",
+        "share": 100
+      }
+    ]
+  }
+}
